@@ -41,6 +41,13 @@ a:visited {
 	margin: 0px;
 	float: left;
 	width: 100%;
+	text-align: center;
+}
+.contentaAboutMe {
+	background: #FFB27D;
+	margin: 15px;
+	float: left;
+	width: 100%;
 	text-align: left;
 }
 .footer {
