@@ -27,6 +27,16 @@ a:visited {
 	height: 80px;
 	
 }
+.headeraboutme {
+	background: #46ABB3;
+	text-align: center;
+	margin: 0px;
+	padding: 5;
+	float: left;
+	width: 100%;
+	height: 80px;
+	
+}
 .nav {
 	background: #B36734;
 	margin: 0px;
