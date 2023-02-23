@@ -56,9 +56,8 @@ a:visited {
 .contentAboutMe {
 	background: #FFB27D;
 	margin: 0px;
-	padding: 5;
 	float: left;
-	width: 100%;
+	width: 95%;
 	text-align: left;
 }
 .footer {
