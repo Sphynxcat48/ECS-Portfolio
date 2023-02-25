@@ -69,3 +69,7 @@ a:visited {
 	height: 50px;
 	text-align: center;
 }
+img {
+	float: left;
+}
+	
