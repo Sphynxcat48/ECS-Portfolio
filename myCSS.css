@@ -78,11 +78,10 @@ a:visited {
 img {
   max-width: 100%
 }
-
 .image {
   flex-basis: 40%
 }
-
 .text {
   padding-left: 20px;
+  float:right;
 }
