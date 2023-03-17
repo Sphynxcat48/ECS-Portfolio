@@ -68,20 +68,8 @@ a:visited {
 	width: 100%;
 	height: 50px;
 	text-align: center;
-.containerinterest {
-  display: flex;
-  width: 960px;
-  align-items: center;
-  justify-content: center
-  background: #FFB27D;
-}
 img {
   max-width: 100%
 }
-.image {
-  flex-basis: 40%
-}
-.text {
-  padding-left: 20px;
-  float:right;
-}
+
+	
